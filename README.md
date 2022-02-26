@@ -1,2 +1,3 @@
-# package-spoiler
-Spoils the fun for malicious packages by tracking their install behaviour.
+# behavior-spoiler
+
+Your foundation to spoil the fun for malicous code by tracking their behaviour.
