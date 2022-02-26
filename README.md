@@ -1,3 +1,3 @@
-# behavior-spoiler
+# Verklikker
 
-Your foundation to spoil the fun for malicous code by tracking their behaviour.
+Your foundation to spoil the fun for malicious code by tracking their behaviour.
